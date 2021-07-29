@@ -1,4 +1,4 @@
-# WordRefrence Terminal User Interface
+# Spanish-English Terminal User Interface
 
 ## Dependencies
 - `ncurse` for TUI
@@ -6,7 +6,7 @@
 - `make` for Compiling the project
 
 ## Functionality
-- Search for words on [wordreference.com](https://wordreference.com)
+- Search for words
 - Select from/to language
 - Favorite words
 
